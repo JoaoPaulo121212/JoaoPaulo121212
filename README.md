@@ -64,5 +64,5 @@
 ### 🔝 Top Contributed Repo
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPaulo121212&repo=SparkApp&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPaulo121212&repo=ia-local&theme=dark" />
 </div>
