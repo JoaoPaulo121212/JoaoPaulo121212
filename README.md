@@ -60,14 +60,9 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPaulo121212&theme=dark"/>
 </div>
 
-### ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://github-readme-quotes.vercel.app/api?theme=dark" alt="Dev Quote">
-</div>
 
 ### 🔝 Top Contributed Repo
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPaulo121212&repo=SparkApp&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPaulo121212&repo=(https://github.com/JoaoPaulo121212/SparkApp)&theme=dark" />
 </div>
