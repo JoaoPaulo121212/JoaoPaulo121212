@@ -56,12 +56,12 @@
 ### 📊 GitHub Stats
 <div align="center">
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPaulo121212&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jotape12-Dev&theme=dark"/>
 </div>
 
 
 ### 🔝 Top Contributed Repo
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=JoaoPaulo121212&repo=SparkApp&theme=dark" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jotape12-Dev&repo=SparkApp&theme=dark" />
 </div>
