@@ -56,7 +56,7 @@
 ### 📊 GitHub Stats
 <div align="center">
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jotape12-Dev&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jotape12-Dev&theme=radical"/>
 </div>
 
 
