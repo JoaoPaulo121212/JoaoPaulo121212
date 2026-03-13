@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### 🇧🇷 Sobre mim
+### Sobre mim
 
 Sou um **desenvolvedor apaixonado por tecnologia**, atualmente cursando o **5º semestre de Ciência da Computação** na **Universidade Católica de Brasília**.
 
@@ -28,13 +28,13 @@ Amo criar **soluções inovadoras** e explorar diferentes áreas — de **aplica
 
 <div align="center">
 
-### 🇺🇸 About Me
+### About Me
 
 I'm a **technology enthusiast and software developer**, currently in the **5th semester of Computer Science** at the **Catholic University of Brasília**.
 
 I currently work as a **Developer at Apple Developer Academy**.
 
-I enjoy building **innovative solutions** and exploring different areas of technology — from **web applications, mobile apps, games and Artificial Intelligence** — always focusing on **continuous learning and clean code practices**. 🚀
+I enjoy building **innovative solutions** and exploring different areas of technology — from **web applications, mobile apps, games and Artificial Intelligence** — always focusing on **continuous learning and clean code practices**. 
 
 </div>
 
