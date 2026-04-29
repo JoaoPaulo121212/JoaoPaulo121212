@@ -23,7 +23,7 @@
   </a>
 </div>
 <br/>
-***👨‍💻 Sobre mim
+**👨‍💻 Sobre mim
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
 </div>
@@ -41,11 +41,11 @@ focus:
   - "🤖 Inteligência Artificial"
   - "⚙️ Boas práticas de Engenharia"
 open_to : "Colaborações & Oportunidades"
-***🏆 GitHub Trophies
+**🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jotape12-Dev&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
 </div>
-***🧰 Tech Stack
+**🧰 Tech Stack
 <div align="center">
   <p><strong>📱 Mobile & Frontend</strong></p>
   <img src="https://skillicons.dev/icons?i=swift,react,ts,js,html,css&perline=6" alt="mobile and frontend" />
@@ -56,7 +56,7 @@ open_to : "Colaborações & Oportunidades"
   <p><strong>🛠️ Ferramentas & Plataformas</strong></p>
   <img src="https://skillicons.dev/icons?i=git,figma,postman,xcode,vscode,github&perline=6" alt="tools" />
 </div>
-***📊 GitHub Stats
+**📊 GitHub Stats
 <div align="center">
   <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=jotape12-Dev&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00F7FF&fire=00D0FF&currStreakLabel=00F7FF&sideLabels=90E0EF&dates=555555" alt="streak" />
    
@@ -66,11 +66,11 @@ open_to : "Colaborações & Oportunidades"
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotape12-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=CCCCCC" alt="top langs" />
 </div>
-***📈 Activity Graph
+**📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jotape12-Dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00B4D8&point=FFFFFF&area=true&area_color=003554" alt="activity graph" />
 </div>
-***🔝 Projeto em Destaque
+**🔝 Projeto em Destaque
 <div align="center">
   <a href="https://github.com/jotape12-Dev/SparkApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jotape12-Dev&repo=SparkApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00D0FF" alt="SparkApp" />
