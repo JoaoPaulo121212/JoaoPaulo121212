@@ -25,7 +25,6 @@
   </a>
 </div>
 <br/>
----
  
 ## 👨‍💻 Sobre mim
  
@@ -33,10 +32,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
 </div>
 <br/>
-Sou **João Paulo Albuquerque de Almeida Marques**, estudante do 5º semestre de **Ciência da Computação** na Universidade Católica de Brasília e Desenvolvedor na **Apple Developer Academy**.
+Sou João Paulo Albuquerque de Almeida Marques, estudante do 5º semestre de Ciência da Computação na Universidade Católica de Brasília e Desenvolvedor na Apple Developer Academy.
  
 ```yaml
-name    : "João Paulo Albuquerque"
+name    : "João Paulo Albuquerque de Almeida Marques"
 role    : "Mobile & Web Developer"
 location: "Brasília, Brasil 🇧🇷"
 education:
@@ -51,7 +50,6 @@ open_to : "Colaborações & Oportunidades"
 ```
  
 <br/>
----
  
 ## 🏆 GitHub Trophies
  
@@ -59,7 +57,7 @@ open_to : "Colaborações & Oportunidades"
   <img src="https://github-profile-trophy.vercel.app/?username=jotape12-Dev&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
 </div>
 <br/>
----
+
  
 ## 🧰 Tech Stack
  
@@ -76,7 +74,7 @@ open_to : "Colaborações & Oportunidades"
   <img src="https://skillicons.dev/icons?i=git,figma,postman,xcode,vscode,github&perline=6" alt="tools" />
 </div>
 <br/>
----
+
  
 ## 📊 GitHub Stats
  
@@ -90,7 +88,6 @@ open_to : "Colaborações & Oportunidades"
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotape12-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=CCCCCC" alt="top langs" />
 </div>
 <br/>
----
  
 ## 📈 Activity Graph
  
@@ -98,7 +95,6 @@ open_to : "Colaborações & Oportunidades"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jotape12-Dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00B4D8&point=FFFFFF&area=true&area_color=003554" alt="activity graph" />
 </div>
 <br/>
----
  
 ## 🔝 Projeto em Destaque
  
