@@ -1,7 +1,7 @@
 # João Paulo Albuquerque de Almeida Marques
  
 <!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:003554,100:00F7FF&height=220&section=header&text=Jo%C3%A3o%20Paulo%20Albuquerque&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Mobile%20%7C%20Web%20%7C%20AI%20Developer&descSize=18&descAlignY=58&descColor=90E0EF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:003554,100:00F7FF&height=220&section=header&text=Jo%C3%A3o%20Paulo%20Albuquerque%20de%20Almeida%20Marques&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Mobile%20%7C%20Web%20%7C%20AI%20Developer&descSize=18&descAlignY=58&descColor=90E0EF" />
 <br/>
 <!-- TYPING SVG -->
 <div align="center">
