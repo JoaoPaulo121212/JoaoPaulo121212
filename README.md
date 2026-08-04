@@ -1,4 +1,4 @@
- <!-- HEADER WAVE -->
+<!-- HEADER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:003554,100:00F7FF&height=220&section=header&text=Jo%C3%A3o%20Paulo%20Albuquerque%20de%20Almeida%20Marques&fontSize=28&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Mobile%20%7C%20Web%20%7C%20AI%20Developer&descSize=18&descAlignY=58&descColor=90E0EF" />
 <br/>
 <!-- TYPING SVG -->
@@ -85,13 +85,13 @@ open_to : "Colaborações & Oportunidades"
 ## 📊 GitHub Stats
  
 <div align="center">
-  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=jotape12-Dev&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00F7FF&fire=00D0FF&currStreakLabel=00F7FF&sideLabels=90E0EF&dates=555555" alt="streak" />
+  <img height="185em" src="https://streak-stats.demolab.com/?user=jotape12-Dev&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00F7FF&fire=00D0FF&currStreakLabel=00F7FF&sideLabels=90E0EF&dates=555555" alt="streak" />
   &nbsp;
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=jotape12-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00D0FF&text_color=CCCCCC" alt="stats" />
+  <img height="185em" src="https://github-stats-extended.vercel.app/api?username=jotape12-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00D0FF&text_color=CCCCCC" alt="stats" />
 </div>
 <br/>
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotape12-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=CCCCCC" alt="top langs" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jotape12-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=CCCCCC" alt="top langs" />
 </div>
 <br/>
  
@@ -106,7 +106,7 @@ open_to : "Colaborações & Oportunidades"
  
 <div align="center">
   <a href="https://github.com/jotape12-Dev/SparkApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jotape12-Dev&repo=SparkApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00D0FF" alt="SparkApp" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=jotape12-Dev&repo=SparkApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00D0FF" alt="SparkApp" />
   </a>
 </div>
 <br/>
